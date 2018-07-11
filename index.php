@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-$hostname = "@@{MariaDB.address}@@";
+$hostname = "DATABASE_IP";
 $username = "webusr";
 $password = "nutanix/4u";
 $db = "test";
